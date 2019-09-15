@@ -1,0 +1,4 @@
+[main] INFO  com.amazon.Test.BaseTest  - Launch Amazon Browser 
+[main] INFO  com.amazon.Test.BaseTest  - Details Of Entered Key 
+[main] INFO  com.amazon.Test.BaseTest  - Details Of Product Page
+[main] INFO  com.amazon.Test.BaseTest  - Details Of Cart Result Page

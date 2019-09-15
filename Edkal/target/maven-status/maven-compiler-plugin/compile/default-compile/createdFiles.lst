@@ -1,0 +1,5 @@
+com\amazon\pageObject\CartPage.class
+com\amazon\pageObject\SearchResultPage.class
+com\amazon\pageObject\App.class
+com\amazon\pageObject\ProductPage.class
+com\amazon\pageObject\AmazonHomePage.class
