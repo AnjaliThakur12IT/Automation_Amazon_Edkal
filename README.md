@@ -1,5 +1,5 @@
-AutomationAmazonEdkal
-Created Edkal maven project.
+#AutomationAmazonEdkal
+##Created Edkal maven project.
 Add all dependency in pom.xml file.
 Created properties file to read common value from properties file.
 Calling 
